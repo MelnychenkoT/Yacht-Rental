@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "Yacht-Rental",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/Yacht-Rental/",
     "preview": "vite preview"
   },
   "devDependencies": {
